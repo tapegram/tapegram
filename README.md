@@ -9,6 +9,7 @@
 
 ## Some fun github stats
 
+(unfortunately this does not include private repos, which is where the bulk of my work is done)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tapegram)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tapegram)](https://git.io/streak-stats)
