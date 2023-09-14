@@ -4,6 +4,7 @@
 
 * [LinkedIn](https://www.linkedin.com/in/tavish-pegram-61109136/)
 * [Blog](https://github.com/tapegram/blog)
+* [Gitlab (Not recently active)](https://gitlab.com/tapegram)
 * Coming Soon - Personal Site
 
 ## Some fun github stats
